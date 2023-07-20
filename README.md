@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react.js,mongo db**
+- 🌱 I’m currently Working on **MERN stack**
 
 - 📫 How to reach me **codingaadi@gmail.com**
 
